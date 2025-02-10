@@ -1,4 +1,4 @@
-Project Context
+PROJECT CONTEXT
 
 The Pet Daycare Center presents the following problems:
 
@@ -9,8 +9,7 @@ The Pet Daycare Center presents the following problems:
 
 Stakeholders: Owner, Employees and End Customer.
 
-
-Assumptions 
+ASSUMPTIONS 
 
 1. Employee training is not efficient, based on what employees describe and the time it takes for each person to be onboarded (3 months) it is assumed that their onboarding process is outdated and extensive.
 2. The onboarding process for a new client is not standardized or well defined, it is assumed that there is no manual or structured plan to make it consistent.
