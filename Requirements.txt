@@ -46,3 +46,11 @@ REQ3_002: The system must allow existing customers to visualize the status of th
 REQ3_003: Provide customer support service to resolve customer queries during the process.
 • Task3_001: Create a FAQ manual so that customers can quickly access and resolve doubts.
 • Task3_002: Integrate chat line so that customers can talk directly to an employee in case their question is not in the FAQ list.
+
+---Non-Functional Requirements
+
+1. Usability
+
+REQ1_001: The system interface should be intuitive and easy to navigate.
+• Task1_001: Implement good UX/UI practices.
+• Task2_002: Perform usability and acceptance testing with users
