@@ -1,1 +1,11 @@
 BROKEN DOWN REQUIREMENTS
+
+Functional Requirements
+Since there are 3 stakeholders (Owner, Employees and End Customer) the requirements will be broken down considering the stakeholders and their condition
+
+1. Owners - New employee onboarding process
+
+REQ1_001: The system shall allow registering new employees with their personal data, roles and mandatory documentation.
+
+•	Task1_001: Create a registration form for new employees.
+•	Task1_002: Establish controls and validations to verify that the values entered in the form are correct.
