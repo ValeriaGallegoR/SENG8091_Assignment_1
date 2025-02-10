@@ -67,3 +67,6 @@ REQ2_003: The system should allow at least 150 simultaneous users without perfor
 
 REQ3_001: Information protected from hacking. 
 • Task3_001: Implement encryption of sensitive customer and employee information.
+
+REQ3_002: Limiting access to information according to employee role.
+• Task3_001: Implement user roles and permissions.
