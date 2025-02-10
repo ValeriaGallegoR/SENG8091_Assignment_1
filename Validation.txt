@@ -1,6 +1,6 @@
 QUESTIONS AND VALIDATIONS
 
-1.	Onboarding process for new employees
+1. Onboarding process for new employees
 
 • What is the actual process to be performed for onboarding new employees? Description of the different stages
 • Why does the onboarding process take 3 months? 
@@ -8,7 +8,7 @@ QUESTIONS AND VALIDATIONS
 • What system or tool do you currently perform the process on, is it manual or automated?
 • Are there roles in the business? And if so, is the onboarding process for each role different?
 
-2.	New customer onboarding process
+2. New customer onboarding process
 
 • What is the current process to be followed for new customer onboarding? Description of the different steps
 • What do you think are the most confusing steps in the process?
@@ -17,7 +17,7 @@ QUESTIONS AND VALIDATIONS
 • How often do you receive new customers? 
 • Do you keep any records of registered customers?
 
-3.	Customer service experience
+3. Customer service experience
 
 • What are the most recurrent complaints from users?
 • What do you do with the complaints you receive? Do you have a process to ensure that these complaints are formally addressed?
