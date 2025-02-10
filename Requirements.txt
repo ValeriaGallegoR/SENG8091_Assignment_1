@@ -1,6 +1,6 @@
 BROKEN DOWN REQUIREMENTS
 
-Functional Requirements
+---Functional Requirements
 Since there are 3 stakeholders (Owner, Employees and End Customer) the requirements will be broken down considering the stakeholders and their condition
 
 1. Owners - New employee onboarding process
@@ -31,3 +31,18 @@ REQ2_002: Allow employees to always have access to documentation about the proce
 REQ2_003: Facilitate audits or follow-up to ensure that there are no irregularities or inconsistencies in the process.
 • Task2_001: Generate compliance and efficiency reports on the process.
 • Task2_002: Store records of actions taken by employees.
+
+3. Customers - User experience 
+
+REQ3_001: Implement an interface where customers can update their information and upload missing documents.
+• Task3_001: Create a friendly interface where customers can visualize their information.
+• Task3_002: Add option to update existing customer information.
+• Task3_003: Add option to attach missing documents from existing customer.
+• Task3_004: The system must verify the format and information entered by the customer.
+
+REQ3_002: The system must allow existing customers to visualize the status of their incorporation.
+• Task3_001: Create a user-friendly interface where customers can track their onboarding.
+
+REQ3_003: Provide customer support service to resolve customer queries during the process.
+• Task3_001: Create a FAQ manual so that customers can quickly access and resolve doubts.
+• Task3_002: Integrate chat line so that customers can talk directly to an employee in case their question is not in the FAQ list.
