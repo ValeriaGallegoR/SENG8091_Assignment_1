@@ -6,6 +6,14 @@ Since there are 3 stakeholders (Owner, Employees and End Customer) the requireme
 1. Owners - New employee onboarding process
 
 REQ1_001: The system shall allow registering new employees with their personal data, roles and mandatory documentation.
-
 •	Task1_001: Create a registration form for new employees.
 •	Task1_002: Establish controls and validations to verify that the values entered in the form are correct.
+
+REQ1_002: Considering the role of the new employee, the system should provide an organized onboarding process, including training and accessible documentation.
+•	Task1_001: Create a detailed and sequential process for the onboarding of a new employee, considering the role to be performed.
+•	Task1_002: Add online training material and/or courses with progress tracking.
+
+REQ1_003: Owners should be allowed to constantly monitor the progress of the onboarding process of each new employee.
+•	Task1_001: Develop a dashboard with metrics on the progress of the onboarding process of a new employee.
+•	Task1_002: Establish timelines for the completion of the onboarding process modules.
+•	Task1_003: Incorporate filters and searches to consult the employees in process.
