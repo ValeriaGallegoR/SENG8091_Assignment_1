@@ -19,3 +19,11 @@ PRELIMINARY TASKS
 • Train employees on the standardized workflow 
 • Evaluate the use of digital tools for optimal onboarding of new customers
 • Implement a feedback system for continuous improvement
+
+3. Customers - User experience 
+
+• Identify the weak points of the user's experience with the process.
+• Analyze whether all process steps are necessary or can be simplified.
+• Evaluate the use of digital tools for customers to view, update and add personal information.
+• Improve communication and support to customers on the process.
+• Establish mechanisms where the feedback received from customers is considered of great importance.
