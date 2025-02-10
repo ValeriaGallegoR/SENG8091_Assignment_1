@@ -54,3 +54,11 @@ REQ3_003: Provide customer support service to resolve customer queries during th
 REQ1_001: The system interface should be intuitive and easy to navigate.
 • Task1_001: Implement good UX/UI practices.
 • Task2_002: Perform usability and acceptance testing with users
+
+2. Performance
+
+REQ2_002: The response time of any operation should not exceed 3 seconds.
+• Task2_001: Optimize database queries.
+
+REQ2_003: The system should allow at least 150 simultaneous users without performance degradation.
+• Task2_001: Perform stress and performance tests.
