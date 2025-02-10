@@ -1,11 +1,21 @@
 PRELIMINARY TASKS
 
-1.	Owners - New employee onboarding process
+1. Owners - New employee onboarding process
 
 • Gathering information about how the new employee onboarding process is currently handled
 • Identifying the most confusing or complicated steps in the process
 • Analyze gaps in training of new staff and potential knowledge transfer failures
 • Identify the different types of roles within the business to sectorize information
 • Standardize the onboarding process for new employees 
-• Evaluate the use of digital tools to improve process times.
-• Implement a feedback system for continuous improvement.
+• Evaluate the use of digital tools to improve process times
+• Implement a feedback system for continuous improvement
+
+2. Employees - Standardization of the new customer onboarding process
+
+• Gathering information about how the new customer onboarding process is currently handled
+• Identify variations among employees in the process
+• Standardize and structure a workflow of the process
+• Develop documentation of the process so that employees can be easily guided through it
+• Train employees on the standardized workflow 
+• Evaluate the use of digital tools for optimal onboarding of new customers
+• Implement a feedback system for continuous improvement
