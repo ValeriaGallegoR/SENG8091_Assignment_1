@@ -1,6 +1,6 @@
 Project Context
 
-The Animal Day Care Center presents the following problems:
+The Pet Daycare Center presents the following problems:
 
 • Owners frustrated by the lengthy onboarding process for new employees.
 • Employees frustrated by the process of onboarding a new client.
