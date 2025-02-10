@@ -2,17 +2,17 @@ Project Context
 
 The Animal Day Care Center presents the following problems:
 
-•	Owners frustrated by the lengthy onboarding process for new employees.
-•	Employees frustrated by the process of onboarding a new client.
-•	Each employee has his or her own way of handling the onboarding process for each client.
-•	Customers frustrated by the complicated onboarding flow.
+• Owners frustrated by the lengthy onboarding process for new employees.
+• Employees frustrated by the process of onboarding a new client.
+• Each employee has his or her own way of handling the onboarding process for each client.
+• Customers frustrated by the complicated onboarding flow.
 
 Stakeholders: Owner, Employees and End Customer.
 
 
 Assumptions 
 
-1.	Employee training is not efficient, based on what employees describe and the time it takes for each person to be onboarded (3 months) it is assumed that their onboarding process is outdated and extensive.
-2.	The onboarding process for a new client is not standardized or well defined, it is assumed that there is no manual or structured plan to make it consistent.
-3.	Employees are not being properly trained and there is no support material, which makes each employee make assumptions and perform the different processes in their own way.
-4.	Customer and employee dissatisfaction can be reflected in economic losses. Failure to provide a good work environment means that employees may quit, which translates into lost time and money that affects the business. Likewise, if the final customer is not satisfied with the service provided, it will not be recurrent and will not generate earnings for the business.
+1. Employee training is not efficient, based on what employees describe and the time it takes for each person to be onboarded (3 months) it is assumed that their onboarding process is outdated and extensive.
+2. The onboarding process for a new client is not standardized or well defined, it is assumed that there is no manual or structured plan to make it consistent.
+3. Employees are not being properly trained and there is no support material, which makes each employee make assumptions and perform the different processes in their own way.
+4. Customer and employee dissatisfaction can be reflected in economic losses. Failure to provide a good work environment means that employees may quit, which translates into lost time and money that affects the business. Likewise, if the final customer is not satisfied with the service provided, it will not be recurrent and will not generate earnings for the business.
