@@ -62,3 +62,8 @@ REQ2_002: The response time of any operation should not exceed 3 seconds.
 
 REQ2_003: The system should allow at least 150 simultaneous users without performance degradation.
 • Task2_001: Perform stress and performance tests.
+
+3. Confidentiality
+
+REQ3_001: Information protected from hacking. 
+• Task3_001: Implement encryption of sensitive customer and employee information.
