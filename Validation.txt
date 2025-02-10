@@ -16,3 +16,10 @@ QUESTIONS AND VALIDATIONS
 •	What system or tool do you currently use to perform the process, is it manual or automated?
 •	How often do you receive new customers? 
 •	Do you keep any records of registered customers?
+
+3.	Customer service experience
+
+•	What are the most recurrent complaints from users?
+•	What do you do with the complaints you receive? Do you have a process to ensure that these complaints are formally addressed?
+•	Have you received positive feedback about the process and what was that feedback?
+•	Have you considered implementing a system where customers can view, update and add information?
