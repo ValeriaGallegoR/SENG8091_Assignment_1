@@ -70,3 +70,8 @@ REQ3_001: Information protected from hacking.
 
 REQ3_002: Limiting access to information according to employee role.
 • Task3_001: Implement user roles and permissions.
+
+1. Availability
+
+REQ4_001: The system must have 99% availability.
+• Task4_001: Ensure availability through networks, applications or servers with redundancy.
