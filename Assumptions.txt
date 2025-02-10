@@ -1,0 +1,10 @@
+Project Context
+
+The Animal Day Care Center presents the following problems:
+
+•	Owners frustrated by the lengthy onboarding process for new employees.
+•	Employees frustrated by the process of onboarding a new client.
+•	Each employee has his or her own way of handling the onboarding process for each client.
+•	Customers frustrated by the complicated onboarding flow.
+
+Stakeholders: Owner, Employees and End Customer.
